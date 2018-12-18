@@ -1,5 +1,5 @@
 {
-  "name": "react-numbers",
+  "name": "react-input-numbers",
   "version": "0.1.0",
   "description": "small library for react that autoformats input fields with given number format",
   "main": "src/index.js",
