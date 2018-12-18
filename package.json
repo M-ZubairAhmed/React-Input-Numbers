@@ -1,0 +1,19 @@
+{
+  "name": "react-numbers",
+  "version": "0.1.0",
+  "description": "small library for react that autoformats input fields with given number format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-ZubairAhmed/React-Numbers.git"
+  },
+  "author": "M-ZubairAhmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-ZubairAhmed/React-Numbers/issues"
+  },
+  "homepage": "https://github.com/M-ZubairAhmed/React-Numbers#readme"
+}
